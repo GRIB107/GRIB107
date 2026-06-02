@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello :EMOJICODE:wave:!
 
 I am Mikhail Gadomin, Data analyst | Data Ingeneer
 <!--
