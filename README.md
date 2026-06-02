@@ -1,3 +1,3 @@
-# Hello, I`m Mikhail Gadomin:wave:!
+# Hello, I`m Mikhail Gadomin :wave:!
 
 ## Data analyst | Data Ingeneer
