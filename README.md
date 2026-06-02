@@ -6,7 +6,7 @@
 
 
 # Hello, I`m Mikhail Gadomin :wave:!
-### Data analyst | Data Ingeneer
+### Data analyst | Product Analyst | Data Ingeneer
 
 Data analyst with a passion for uncovering patterns and turning raw data into actionable insights. I enjoy working with messy datasets, asking the right questions, and building clean pipelines. Also I like memes and computer games. Always curious, always learning :top:.
 
@@ -37,3 +37,12 @@ Data analyst with a passion for uncovering patterns and turning raw data into ac
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/MGadomin)</a>
 
 </div>
+
+## 	:bar_chart: My projects:
+
+|Name   | Description | Technologies|
+|-------|-------------|-------------|
+|[A/B test on Premium subscription price change in a Major dating app ](https://github.com/GRIB107/Dating_app_AB-test)|Data preparation (cleaning duplicates, anomaly detection, etc.), A/A test for control groups using Chi-square and bootstrap, defined key metrics (target, proxy, guardrail), formulated statistical hypotheses, validated test group, compared metrics across groups (QQ-plot, ANOVA, Chi-square), drew conclusions from test results|**Pandas** **Numpy** **Pingouin** **SciPy** **Seaborn**|
+|[Product analytics for Beauty marketplace with delivery](https://github.com/GRIB107/Project-Product-Analytics)|Formulated product analytics tasks, data preparation and cleaning, cohort analysis with monthly Retention calculation, determined lack of product/market fit, defined key metrics for profit maximization, formulated solution hypotheses using ICE framework|**Pandas** **Numpy** **SciPy** **Seaborn**|
+|[Sales overview dashboard for Beauty marketplace](https://datalens.yandex/ruyai1skpjd6b?_theme=dark)|Dashboard design based on stakeholder interview, developed interactive dashboard with filters, displayed KPI achievement (repurchase rate, MoM revenue), top brands/categories by sales, analyzed repurchase rate dependence on average price|**Datalens**|
+
