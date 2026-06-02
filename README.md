@@ -8,7 +8,7 @@
 # Hello, I`m Mikhail Gadomin :wave:!
 ### Data analyst | Data Ingeneer
 
-## Languages and tools:
+## :hammer_and_wrench: Languages and tools:
 
 <div align="center">
   
@@ -27,5 +27,11 @@
 ![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 
+</div>
+
+## :calling: My contacts:
+<div align="center">
+
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/MGadomin)</a>
 
 </div>
