@@ -1,7 +1,7 @@
 # Hello :wave:!
 
 ## I am Mikhail Gadomin
-###Data analyst | Data Ingeneer
+### Data analyst | Data Ingeneer
 <!--
 **GRIB107/GRIB107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
