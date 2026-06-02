@@ -8,7 +8,7 @@
 # Hello, I`m Mikhail Gadomin :wave:!
 ### Data analyst | Data Ingeneer
 
-Data analyst with a passion for uncovering patterns and turning raw data into actionable insights. I enjoy working with messy datasets, asking the right questions, and building clean pipelines. Also I like memes and computer games. Always curious, always learning.
+Data analyst with a passion for uncovering patterns and turning raw data into actionable insights. I enjoy working with messy datasets, asking the right questions, and building clean pipelines. Also I like memes and computer games. Always curious, always learning :top:.
 
 ## :hammer_and_wrench: Languages and tools:
 
