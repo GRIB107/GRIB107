@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.ytimg.com/vi/M-vlpyQducY/mqdefault.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/M-vlpyQducY/mqdefault.jpg">
- <img alt="STONKS" src="https://i.ytimg.com/vi/M-vlpyQducY/mqdefault.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://politicsandwar.com/uploads/2f397e17f543b8f2aa1942c46c3f164408a28f69x85.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://politicsandwar.com/uploads/2f397e17f543b8f2aa1942c46c3f164408a28f69x85.jpg">
+ <img alt="STONKS" src="https://politicsandwar.com/uploads/2f397e17f543b8f2aa1942c46c3f164408a28f69x85.jpg">
 </picture>
 
 
